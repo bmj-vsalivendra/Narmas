@@ -10,7 +10,7 @@ import java.util.Properties;
 /**
  * Created by Sudhakar on 25/03/2016.
  */
-// Deleted new line
+// Updated new line 
 public class BaseMain {
     static WebDriver driver;
     public void openBrowser() throws IOException {
